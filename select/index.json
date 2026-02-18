@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋のデシベル",
+  "base_artist": "Home Made Kazoku",
+  "createdAt": "2026-02-18T03:00:21.995317Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋のデシベル",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/pl_01_恋のデシベル_HOME_MADE_家族.txt"
+    }
+  ]
+}
